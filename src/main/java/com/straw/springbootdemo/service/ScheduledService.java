@@ -21,7 +21,7 @@ public class ScheduledService {
 
         System.out.println("fixedRate开始执行时间:" + new Date(System.currentTimeMillis()));
         //休眠8秒
-        Thread.sleep(1000);
+        Thread.sleep(1000 * 8);
         System.out.println("fixedRate执行结束时间:" + new Date(System.currentTimeMillis()));
     }
 
