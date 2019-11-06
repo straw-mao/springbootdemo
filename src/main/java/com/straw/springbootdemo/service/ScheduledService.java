@@ -1,6 +1,5 @@
 package com.straw.springbootdemo.service;
 
-import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
