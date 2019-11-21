@@ -9,8 +9,8 @@ import java.util.Date;
  * author: straw
  * desc: 实现定时任务
  */
-
-@Service
+//此类为定时任务demo，注释掉此标签，不执行定时任务
+//@Service
 public class ScheduledService {
 
     /**
